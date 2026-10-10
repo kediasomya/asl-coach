@@ -1,6 +1,6 @@
 # ASL Coach
 
-> **Built with Wispr Flow.** This project was created for the Wispr Flow hackathon task: the whole app was directed by voice using Wispr Flow dictation.
+> **Built with Wispr Flow.** This project was created for the hackerhouse goa hackathon task: the whole app was directed by voice using Wispr Flow dictation.
 
 A browser app for learning American Sign Language. Say or type a word or sentence, choose how to practise each word (full sign, fingerspelled, or skipped), then sign it to your camera and get live feedback.
 
