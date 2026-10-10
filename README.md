@@ -1,5 +1,7 @@
 # ASL Coach
 
+> **Built with Wispr Flow.** This project was created for the Wispr Flow hackathon task: the whole app was directed by voice using Wispr Flow dictation.
+
 A browser app for learning American Sign Language. Say or type a word or sentence, choose how to practise each word (full sign, fingerspelled, or skipped), then sign it to your camera and get live feedback.
 
 ## Features
@@ -35,6 +37,7 @@ Then open <http://localhost:8000> in Chrome or Edge and allow camera and microph
 
 ## Credits
 
+- Built with [Wispr Flow](https://wisprflow.ai), voice dictation used to specify and iterate on the whole project.
 - Sign clips are linked from [Lifeprint / ASL University](https://www.lifeprint.com) (Dr. Bill Vicars) and remain their property; they are not redistributed here.
 - Letter images are public-domain illustrations from Wikimedia Commons; one word image is CC BY-SA 4.0 (Luxpoiesis).
 - Hand tracking by [MediaPipe](https://developers.google.com/mediapipe).
